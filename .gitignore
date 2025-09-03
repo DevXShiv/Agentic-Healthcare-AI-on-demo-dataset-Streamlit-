@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Data & models (large files)
+data/
+backend/models/
+*.csv
+*.pkl
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
+venv/
+venv/
+__pycache__/
